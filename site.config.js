@@ -19,13 +19,13 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "kimgiraffe",
-    description: "welcome to morethan-log!",
+    description: "welcome to my blog!",
   },
 
   // CONFIG configration (required)
   link: "https://blog.semin.kim",
   since: 2024, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
